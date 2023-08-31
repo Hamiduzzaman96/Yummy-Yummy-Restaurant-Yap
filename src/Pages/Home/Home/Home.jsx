@@ -8,9 +8,10 @@ import Category from "../Category/Category";
 import Featured from "../Featured/Featured";
 import Testimonials from "../Testimonials/Testimonials";
 import Card from "../Card/Card";
-import Text from "../Text/text";
+
 import Yummy from "../Yummy/Yummy";
 import { Helmet } from "react-helmet-async";
+import Text from "../Text/Text";
 
 const Home = () => {
   return (
@@ -22,7 +23,7 @@ const Home = () => {
       <Category />
       <Yummy />
       <PopularMenu />
-      <Text />
+      <Text></Text>
       <Card />
       <Featured />
       <Testimonials />
