@@ -1,0 +1,17 @@
+.hero {
+    background-image: url('../../../assets//menu/banner3.jpg');
+    width: auto;
+    height: 500px;
+    padding: 20px;
+    opacity: 70;
+
+
+}
+
+.div {
+    width: 750px;
+    height: 250px;
+    font-weight: bold;
+    opacity: 70;
+
+}
